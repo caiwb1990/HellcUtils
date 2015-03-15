@@ -18,5 +18,7 @@ class HellcUtils
 {
 public:
     static string getCurrentTime();
+    
+    static string gbk_to_utf8(const string text);
 };
 #endif /* defined(__HellcUtils_2dx__HellcUtils__) */

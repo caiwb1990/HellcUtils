@@ -8,7 +8,6 @@
 
 #include "HellcUtils.h"
 
-//获得时间
 string HellcUtils::getCurrentTime()
 {
     time_t t;
@@ -19,7 +18,6 @@ string HellcUtils::getCurrentTime()
     return timeStr;
 }
 
-//Win32将GBK编码转换为UTF-8
 string HellcUtils::gbk_to_utf8(const string text)
 {
 #if (CC_TARGET_PLATFORM == CC_PLATFORM_WIN32)

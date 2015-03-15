@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>73DE5E42-674C-4181-87C2-38FEBFAAC59F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HellcUtils_2dx</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>22422C45752DBF3451A2333C8FA44A4A2923A1C4</key>
+		<string>https://github.com/caiwb1990/HellcUtils.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HellcUtils_2dx/proj.ios_mac/HellcUtils_2dx.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>22422C45752DBF3451A2333C8FA44A4A2923A1C4</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/caiwb1990/HellcUtils.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>22422C45752DBF3451A2333C8FA44A4A2923A1C4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>22422C45752DBF3451A2333C8FA44A4A2923A1C4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HellcUtils</string>
+		</dict>
+	</array>
+</dict>
+</plist>
